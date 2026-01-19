@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for **[GameIsHard.org](https://gamei
 
 ## 📖 About Us
 
-**Game Is Hard Guide** is the premier independent companion site for the mobile trivia and puzzle game *"Game Is Hard"*, published by Unico Studio.
+**Game Is Hard Guide** is the premier independent companion site for the mobile trivia and puzzle game *"[Game Is Hard](https://gameishard.org)"*, published by Unico Studio.
 
 The game is famous for its "gotcha" mechanics—where the question on the screen is rarely the real puzzle. Solutions often involve device exploration like tilting, shaking, multi-touch gestures, or interacting with UI elements you assumed were just decoration.
 
@@ -25,17 +25,17 @@ Stuck on a tricky stage? These are some of the most challenging levels our commu
 
 | Levels 1-30 | Levels 31-60 | Levels 61-100 |
 | --- | --- | --- |
-| **[Level 2](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-2/)** | **[Level 31](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-31/)** | **[Level 61](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-61/)** |
-| **[Level 6](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-6/)** | **[Level 32](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-32/)** | **[Level 69](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-69/)** |
-| **[Level 18](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-18/)** | **[Level 33](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-33/)** | **[Level 74](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-74/)** |
-| **[Level 19](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-19/)** | **[Level 34](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-34/)** | **[Level 78](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-78/)** |
-| **[Level 20](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-20/)** | **[Level 36](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-36/)** | **[Level 79](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-79/)** |
-| **[Level 21](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-21/)** | **[Level 40](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-40/)** | **[Level 80](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-80/)** |
-| **[Level 28](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-28/)** | **[Level 42](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-42/)** | **[Level 85](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-85/)** |
-|  | **[Level 44](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-44/)** | **[Level 91](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-91/)** |
-|  | **[Level 45](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-45/)** | **[Level 94](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-94/)** |
-|  | **[Level 55](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-55/)** | **[Level 95](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-95/)** |
-|  | **[Level 58](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-58/)** | **[Level 100](https://www.google.com/search?q=https://gameishard.org/game-is-hard-level-100/)** |
+| **[Level 2](https://gameishard.org/level/2)** | **[Level 31](https://gameishard.org/level/31)** | **[Level 61](https://gameishard.org/level/61)** |
+| **[Level 6](https://gameishard.org/level/6)** | **[Level 32](https://gameishard.org/level/32)** | **[Level 69](https://gameishard.org/level/69)** |
+| **[Level 18](https://gameishard.org/level/18)** | **[Level 33](https://gameishard.org/level/33)** | **[Level 74](https://gameishard.org/level/74)** |
+| **[Level 19](https://gameishard.org/level/19)** | **[Level 34](https://gameishard.org/level/34)** | **[Level 78](https://gameishard.org/level/78)** |
+| **[Level 20](https://gameishard.org/level/20)** | **[Level 36](https://gameishard.org/level/36)** | **[Level 79](https://gameishard.org/level/79)** |
+| **[Level 21](https://gameishard.org/level/21)** | **[Level 40](https://gameishard.org/level/40)** | **[Level 80](https://gameishard.org/level/80)** |
+| **[Level 28](https://gameishard.org/level/28)** | **[Level 42](https://gameishard.org/level/42)** | **[Level 85](https://gameishard.org/level/85)** |
+|  | **[Level 44](https://gameishard.org/level/44)** | **[Level 91](https://gameishard.org/level/91)** |
+|  | **[Level 45](https://gameishard.org/level/45)** | **[Level 94](https://gameishard.org/level/94)** |
+|  | **[Level 55](https://gameishard.org/level/55)** | **[Level 95](https://gameishard.org/level/95)** |
+|  | **[Level 58](https://gameishard.org/level/58)** | **[Level 100](https://gameishard.org/level/100)** |
 
 ## 🚀 Quick Tips
 
